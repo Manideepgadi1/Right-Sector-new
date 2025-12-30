@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*_backup.json
+*.bak
+
+# Temporary files
+*.tmp
+*.log
+
+# Don't ignore data folder but ignore specific large files
+# data/
